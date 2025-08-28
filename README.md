@@ -1,1 +1,1 @@
-Repositório destinado a cadeira de Desenvolvimento de Dispositivos Móveis - P4
+Repositório destinado a cadeira de Desenvolvimento de Dispositivos Móveis - P5
