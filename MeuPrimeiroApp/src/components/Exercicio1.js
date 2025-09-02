@@ -1,12 +1,20 @@
-import { View, Text } from 'react-native'
+import { View, Text, StyleSheet } from 'react-native'     
 import React from 'react'
 
 const Exercicio1 = ({ nome }) => {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>Olá, {nome}</Text>
     </View>
   )
 }
 
-export default Exercicio1
+const styles = StyleSheet.create({
+    container: {
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: 100
+    }
+})
+
+export default Exercicio1  
