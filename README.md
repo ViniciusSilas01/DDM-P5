@@ -1,6 +1,6 @@
 ## DDPM-P5
 
-Repositório destinado a cadeira de Desenvolvimento de Dispositivos Móveis - P5
+**Repositório destinado a cadeira de Desenvolvimento de Dispositivos Móveis - P5**
 ##
 
 Resultados dos exercícios do slide 1:
@@ -10,6 +10,14 @@ Resultados dos exercícios do slide 1:
 
 #### 2:
 ![atv2](https://github.com/user-attachments/assets/a27b99b0-d69d-489d-bfac-4caf46291c69)
+
+### 3:
+![atv3](https://github.com/user-attachments/assets/1e979a1a-d093-4b4d-ba1a-be1a5e790eb5)
+
+### 4:
+![atv4](https://github.com/user-attachments/assets/6e11b9c2-9e4c-444b-b4f2-7a093d514acd)
+
+
 
 
 
