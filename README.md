@@ -3,7 +3,7 @@
 **Repositório destinado a cadeira de Desenvolvimento de Dispositivos Móveis - P5**
 ##
 
-#### Resultados dos exercícios do slide 1:
+**Resultados dos exercícios do slide 1:**
 
 #### 1:
 ![atv1](https://github.com/user-attachments/assets/1831a23d-752e-4528-98d1-4d8bf375b83e)
