@@ -20,8 +20,8 @@ const CartaoApresentacao = () => {
           <Text style={styles.textoBotao}>GitHub</Text>
         </TouchableOpacity>
 
-        <TouchableOpacity style={[styles.botao, styles.botaoLinkedln]}>
-          <Text style={styles.textoBotao}>Linkedln</Text>
+        <TouchableOpacity style={[styles.botao, styles.botaoLinkedin]}>
+          <Text style={styles.textoBotao}>LinkedIn</Text>
         </TouchableOpacity>
       </View>
 
@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     botaoGithub: {
         backgroundColor: '#333'
     },
-    botaoLinkedln: {
+    botaoLinkedin: {
         backgroundColor: '#0077b5'
     },
     textoBotao: {
