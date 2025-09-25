@@ -1,4 +1,5 @@
-import { View, Text, StyleSheet, Image, TouchableOpacity, useState } from 'react-native'
+import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native'
+import { useState } from 'react'
 import React from 'react'
 
 const CartaoPerfil = () => {
